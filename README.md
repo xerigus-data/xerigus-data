@@ -3,7 +3,8 @@
 ## 👨‍💻 About Me
 * 📊 **Data Analyst / Analytics Engineer**
 * 🛠 **Core Tech Stack:** SQL (PostgreSQL, ClickHouse), Python (Pandas), Apache Airflow, dbt, Apache Superset, Power BI, Git
-* ⚡ Focus: Building scalable data models, automating ETL workflows, and delivering actionable BI insights.
+* ⚡ **Focus:** Building scalable data models, automating ETL workflows, and delivering actionable BI insights.
+* 🚀 **Currently:** On my Data Science learning journey through SenatorovAI.
 
 ---
 
